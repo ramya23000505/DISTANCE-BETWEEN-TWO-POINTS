@@ -27,7 +27,8 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-
+![Screenshot 2024-03-09 154637](https://github.com/ramya23000505/DISTANCE-BETWEEN-TWO-POINTS/assets/149370791/1a3bc148-d1f3-41a7-b91f-2195d89bd668)
+![Screenshot 2024-03-09 154645](https://github.com/ramya23000505/DISTANCE-BETWEEN-TWO-POINTS/assets/149370791/600d6ad5-0e00-458f-aafe-8a124da7a753)
 
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
