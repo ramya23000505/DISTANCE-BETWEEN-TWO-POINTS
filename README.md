@@ -1,5 +1,5 @@
 # DISTANCE-BETWEEN-TWO-POINTS
-
+## Date:
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
@@ -16,9 +16,9 @@ To write a python program to find the distance two 2 points
 ### Step 5: 
    End the program.
 ### PROGRAM:
-#Developed by: RAMYA R
-#REGISTER NUMBER : 212223230169
 ```
+#Developed by: RAMYA R
+#Register Number : 212223230169
 import math
 list1=[4,2]
 list2=[10,6]
@@ -27,8 +27,7 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![Screenshot 2024-03-09 154637](https://github.com/ramya23000505/DISTANCE-BETWEEN-TWO-POINTS/assets/149370791/1a3bc148-d1f3-41a7-b91f-2195d89bd668)
-![Screenshot 2024-03-09 154645](https://github.com/ramya23000505/DISTANCE-BETWEEN-TWO-POINTS/assets/149370791/600d6ad5-0e00-458f-aafe-8a124da7a753)
-
+![alt text](<3 in.png>)
+![alt text](<3 ot.png>)
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
